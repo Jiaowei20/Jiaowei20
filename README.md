@@ -24,6 +24,6 @@ In the past, I developed several iOS app like social media, reporting app, walle
 
 If you have anything to help with app development, please contact me.
 
-eamil : hulala07@outlook.com
+email : hulala07@outlook.com
 
 skype : ITSweet
