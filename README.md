@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Jiao Wei
 
- 🔭 I am an iOS developer with more than 5 years' experinece.
+ 🔭 I am an iOS developer with more than 5 years' experience.
  
 
 
