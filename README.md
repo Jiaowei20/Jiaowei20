@@ -26,4 +26,4 @@ If you have anything to help with app development, please contact me.
 
 email : hulala07@outlook.com
 
-skype : ITSweet
+skype : live:2c6bd5449c8b0d43
