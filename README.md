@@ -8,6 +8,7 @@ In the past, I developed several iOS and android app like social media, reportin
  These apps were developed by me.
  
 - IOS
+
 https://apps.apple.com/us/app/magabook/id1534812911?l=en
 
 https://itunes.apple.com/us/app/textdrop/id1330838695?mt=8u
@@ -26,6 +27,7 @@ https://itunes.apple.com/us/app/bitcoin-voucher-bitbay-cash/id1442922323?ls=1&mt
 
 
 - Android
+
 https://play.google.com/store/apps/details?id=com.eric.magabook
 
 https://play.google.com/store/apps/details?id=com.habsakram.djvj&hl=en_US
@@ -36,7 +38,6 @@ https://play.google.com/store/apps/details?id=piuk.blockchain.android&hl=en_US
 
 https://play.google.com/store/apps/details?id=com.kcm.bitbaycash
 
-![image](https://user-images.githubusercontent.com/55833057/119280882-ef73e200-bc65-11eb-9cea-2c5c706d2a42.png)
 
  
 
